@@ -19,6 +19,7 @@ This is just my personal knowledge, sharing with others
     o -> down a line and brings you into insert mode
     O -> up a line and brings you into insert mode
     v -> start highlight
+    a -> insert mode to the right of your cursor
     
 #### Combo Commands
     d + e -> delete word
@@ -30,3 +31,5 @@ This is just my personal knowledge, sharing with others
     v + i + ' -> highlight between quotes on the line
     d + i + ' -> delete between quotes on the line 
     c + i + ' -> copy between quotes on the line
+    f + a -> puts your cursor to the first a of the line, a is replaceable with any char
+    t + a -> puts your cursor right before the first a of the line, a is replaceable with any char
